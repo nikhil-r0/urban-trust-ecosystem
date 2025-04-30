@@ -1,0 +1,9 @@
+[submodule "urban-trust"]
+	path = urban-trust
+	url = git@github.com:nikhil-r0/urban-trust.git
+[submodule "urban-trust-web"]
+	path = urban-trust-web
+	url = git@github.com:nikhil-r0/urban-trust-web.git
+[submodule "urbanTrustApi"]
+	path = urbanTrustApi
+	url = git@github.com:Nish344/urbanTrustApi.git
